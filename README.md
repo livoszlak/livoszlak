@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=livoszlak&label=Profile%20views&color=0e75b6&style=flat" alt="livoszlak" /> </p>
 
-🌱 **I’m currently learning** PHP, C#, JavaScript, MySQL, HTML, CSS, digital design, Node.js, React, Wordpress
+🌱 **I’m currently learning** PHP, Laravel, C#, JavaScript, MySQL, HTML, CSS, digital design, Node.js, React, Wordpress
 
 📫 **How to reach me:** liv.oschlag@gmail.com
 
