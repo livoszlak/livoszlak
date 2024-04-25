@@ -1,9 +1,9 @@
-<h3>Do, or do not. There is no try.</h3>
-<h4>Hi 👋, I'm Liv - an aspiring web developer from Gothenburg, Sweden</h4>
+<h3>I find your lack of version control disturbing.</h3>
+<h4>Hi 👋, I'm Liv - a web development student from Gothenburg, Sweden</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=livoszlak&label=Profile%20views&color=0e75b6&style=flat" alt="livoszlak" /> </p>
 
-🌱 **I’m currently learning** PHP, Laravel, C#, JavaScript, MySQL, HTML, CSS, digital design, Node.js, React, Wordpress
+🌱 **I’m currently learning** PHP, Laravel, C#, JavaScript, MySQL, HTML, CSS, digital design, Node.js, React, ...
 
 📫 **How to reach me:** liv.oschlag@gmail.com
 
