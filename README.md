@@ -5,9 +5,9 @@
 
 🌱 **I’m currently learning** PHP, Laravel, C#, JavaScript, TypeScript, React, Next.js, Node.js, MySQL, HTML, CSS, digital design, ...
 
-📫 **How to reach me:** liv.oschlag@gmail.com
-
 ⚡ **Hobbies:** Raising money for charity with <a href="https://www.501st.com/">the 501st</a> <a href="https://swedishgarrison.se/sv/hem/">Swedish Garrison</a>
+
+📫 **How to reach me:** liv.oschlag@gmail.com
 
 <h3 align="left">Favorite tools (so far!):</h3>
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" /> 
