@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=livoszlak&label=Profile%20views&color=0e75b6&style=flat" alt="livoszlak" /> </p>
 
-🌱 **I’m currently learning** PHP, Laravel, C#, JavaScript, MySQL, HTML, CSS, digital design, Node.js, React, ...
+🌱 **I’m currently learning** PHP, Laravel, C#, JavaScript, TypeScript, React, Next.js, Node.js, MySQL, HTML, CSS, digital design, ...
 
 📫 **How to reach me:** liv.oschlag@gmail.com
 
@@ -13,6 +13,7 @@
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40"/>
