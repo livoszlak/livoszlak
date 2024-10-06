@@ -23,3 +23,5 @@
 <a href="https://instagram.com/lilith.ren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lilith.ren" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/liv-oschlag-0ab6942b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Liv Oschlag" height="30" width="40" /></a>
 </p>
+
+[![An image of @livoszlak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/livoszlak)](https://holopin.io/@livoszlak)
